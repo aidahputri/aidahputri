@@ -1,9 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<p>
-<img height="180em" src="https://github-readme-stats-aidahputri.vercel.app/api?username=aidahputri&show_icons=true&count_private=true&theme=aura" />
-<img height="180em" src="https://github-readme-stats-aidahputri.vercel.app/api/top-langs/?username=aidahputri&layout=compact&theme=aura&langs_count=6&hide=html,powershell,batchfile" />
-</p>
 <br>
 <h1 align="center" style="font-weight: 600;">Hi! I'm Aidah Novallia !!!</h1>
 <h3 align="center">I'm a Computer Science student at University of Indonesia</h3>
